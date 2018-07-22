@@ -3,4 +3,4 @@
 
 Выглядит это примерно так:
 
-![PCInfo](https://github.com/r3xq1/PCInfo/blob/master/Screenshot_1.png)
+![PCInfo](https://image.ibb.co/gv0d9J/Screenshot_1.png)
